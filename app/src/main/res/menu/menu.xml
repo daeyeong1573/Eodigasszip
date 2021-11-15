@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:title="프로필"
+            app:showAsAction="collapseActionView" />
+        <item
+            android:id="@+id/github_connect"
+            android:title="GitHub 연동"
+            app:showAsAction="collapseActionView" />
+        <item
+            android:id="@+id/blog_connect"
+            android:title="블로그 연동"
+            app:showAsAction="collapseActionView" />
+        <item
+            android:id="@+id/carrer"
+            android:title="경력"
+            app:showAsAction="collapseActionView" />
+        <item
+            android:id="@+id/setting"
+            android:title="설정"
+            app:showAsAction="collapseActionView" />
+        <item
+            android:id="@+id/logout"
+            android:title="로그아웃"
+            app:showAsAction="collapseActionView" />
+    </group>
+</menu>
