@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Eodigasszip</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="right_arrow">&amp;gt</string>
+    <string name="gsm">광주소프트웨어마이스터고</string>
+    <string name="empty_result">검색 결과가 없습니다.</string>
 </resources>
